@@ -6,3 +6,6 @@ These scripts work with only one channel at a time.
 I am pretty new at programming so cut me some slack.
 
 P.S. - I think these scripts load the entire JSON file into RAM. Just keep this in mind if your JSON file is larger than the ammount of RAM you have.
+
+## mostActiveUserPlot.py Example Output Graph
+![userChatBar](https://user-images.githubusercontent.com/76749623/111891211-923e8480-89c7-11eb-923f-2d1b53b3270d.png)
