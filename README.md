@@ -9,3 +9,6 @@ P.S. - I think these scripts load the entire JSON file into RAM. Just keep this 
 
 ## mostActiveUserPlot.py Example Output Graph
 ![userChatBar](https://user-images.githubusercontent.com/76749623/111891211-923e8480-89c7-11eb-923f-2d1b53b3270d.png)
+
+## channelMsgCountOverTime.py Example Output Graph
+![image](https://user-images.githubusercontent.com/76749623/111891262-0ed16300-89c8-11eb-8644-c275f6aceb5e.png)
